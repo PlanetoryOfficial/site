@@ -1,0 +1,32 @@
+Planetory Beta
+Copyright © 2022 Planetory
+
+History
+-------
+First build successfully completed on 1-May-2022
+Current Build Successfully Completed on 25-August-2022
+
+Commands
+--------
+ver	- print OS version
+help - Prints Commands/Help
+exit - Exits Planetory
+dir - Lists Files
+run - Runs Any Program
+
+APP LIST
+--------
+
+NAME of app   shortname
+===========   =========
+Calculator  - calc
+BMI         - bmi
+Clock       - clock
+Integer to Binary  - num2bin
+Number Guessing Game - ngg
+Text Editor - Editor
+Wordle - Wordle
+
+
+For feedback and enquiries, please contact planetory.service@gmail.com or use the support form https://bit.ly/plyfeedback
+
